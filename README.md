@@ -10,3 +10,9 @@ Utwórz konto Użytkownika sprawdź zabezpieczenia
 
 
 Jeśli nowo utworzony user nie dostał rangi automatycznie uruchom ponownie projekt 
+Dodatkowo tworzony jest user Test@user.pl zaq1@WSX
+
+Zmiany względem pierwotnej wersji projektu:
+- Dodano opisy pól i ich nazwy dla modeli
+- Dodano walidację atrybutów podczas dodawania wartości do bazy
+- Poprawiono wzorzec architektoniczny
